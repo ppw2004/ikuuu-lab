@@ -1,0 +1,7 @@
+# ikuuu-lab
+
+实验产物与临时文件
+*.png
+*.log
+state.txt
+config.sh
